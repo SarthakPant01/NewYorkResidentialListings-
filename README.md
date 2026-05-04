@@ -36,9 +36,3 @@ This project performs Exploratory Data Analysis (EDA) on an Airbnb dataset to un
 - Delivered actionable insights on pricing behavior  
 - Identified key drivers affecting listing prices  
 - Built a structured EDA workflow for real-world datasets  
-
-## 📷 Visualizations
-(Add screenshots of plots here)
-
-## 🔗 Notebook
-(Add GitHub link here)
